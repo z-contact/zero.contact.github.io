@@ -1,26 +1,37 @@
 Güvenli İletişim Noktası
+
 Merhaba, hoş geldin.
+
 Dijital dünyada gizliliğe ve güvenliğe önem veriyorsan, seninle iletişim kurabileceğimiz birkaç özel kanal hazırladım.
 
 🟢 Signal (Uçtan Uca Şifreli Mesajlaşma)
+
 Kullanıcı ID: xOWNER.69
+
 🔗 https://signal.me/#eu/sasnMz5SZcEMYi1Jzq0JtNeeuFilVzCBgGAUY9zSeK50RkFmC5VDk4E2RgCHK4eA
 
 🟢 Telegram (Kanal)
+
 🔗 https://t.me/+CUJ9rIaAzoo5Yjk0
 
 🟢 ProtonMail (Şifreli E-Posta)
+
 0x0_owner@proton.me
 
 🟢 Bitcoin (BTC) Cüzdan Adresi
+
 bc1q9ve2z5zlks5xfr7mljdw2gjfv9x7mmjnky3fef
+
 Her türlü destek, katkı veya bağışlar için bu adresi kullanabilirsin.
 
 🟢 WhatsApp Kanalı
+
 Kanal: root@zero
+
 🔗 https://whatsapp.com/channel/0029VbAHv4L8PgsHSQja2P0E
 
 Neden Bu Kanallar?
+
 Signal & ProtonMail: Uçtan uca şifreli, gözetimsiz ve özgür iletişim için.
 
 Telegram & WhatsApp Kanalı: Yayınlar, duyurular ve içerikler için.
