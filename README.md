@@ -14,6 +14,8 @@ Kullanıcı ID: xOWNER.69
 
 🔗 https://t.me/+CUJ9rIaAzoo5Yjk0
 
+Telegram Not/Mesaj Bırakabileceğiniz 1/2 Alan   https://t.me/rootxzero    -     https://t.me/rootxzero2
+
 🟢 ProtonMail (Şifreli E-Posta)
 
 0x0_owner@proton.me
