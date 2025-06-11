@@ -16,9 +16,9 @@ Kullanıcı ID: xOWNER.69
 
 Telegram Not/Mesaj Bırakabileceğiniz 1/2 Alan   https://t.me/rootxzero    -     https://t.me/rootxzero2
 
-🟢 ProtonMail (Şifreli E-Posta)
+🟢 DuckMail > Firefox Relay > (Şifreli E-Posta)
 
-0x0_owner@proton.me
+E-posta: gab-carve-imprison@duck.com
 
 🟢 Bitcoin (BTC) Cüzdan Adresi
 
