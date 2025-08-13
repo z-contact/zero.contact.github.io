@@ -22,7 +22,11 @@ E-posta: gab-carve-imprison@duck.com
 
 🟢 Bitcoin (BTC) Cüzdan Adresi
 
-bc1q9ve2z5zlks5xfr7mljdw2gjfv9x7mmjnky3fef
+bc1qt0ylk7juujgycqqfn7c7zvzxf59u5dx2hcadexv48xqdf69qcjeq39w7l6
+
+🟢 Monero (Cash) Adresi
+
+44dNkJRakPS85FRF6TuGn4EBajQprJRPtPyPn2fUm84n8LgXzZXWiZWGiotv9r5TWo6euwPKUVkw1BPGs6fQtSbDAoBtEAs
 
 Her türlü destek, katkı veya bağışlar için bu adresi kullanabilirsin.
 
