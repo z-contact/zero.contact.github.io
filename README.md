@@ -26,7 +26,7 @@ bc1qlc9hkjp0cruqpnyd5urc53ypz560x6607vegcj5l7s8e6e46m83st489ct
 
 🟢 Monero (Cash) Adresi
 
-44dNkJRakPS85FRF6TuGn4EBajQprJRPtPyPn2fUm84n8LgXzZXWiZWGiotv9r5TWo6euwPKUVkw1BPGs6fQtSbDAoBtEAs
+43afBtCmQPgFgK3LZmhGXeFNFWC7Xz4RYgbVYoWAYByyN1ET32H5ReX3dWk3VfxHD4LnB1m8iSR66TRdBopcGTwAJixLNmy
 
 Her türlü destek, katkı veya bağışlar için bu adresi kullanabilirsin.
 
