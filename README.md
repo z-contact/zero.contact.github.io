@@ -12,9 +12,7 @@ Kullanıcı ID: xOWNER.69
 
 🟢 Telegram (Kanal)
 
-🔗 https://t.me/+CUJ9rIaAzoo5Yjk0
-
-Telegram Not/Mesaj Bırakabileceğiniz 1/2 Alan   https://t.me/rootxzero    -     https://t.me/rootxzero2
+🔗 https://t.me/+k1_kiiYrOXphZDk0
 
 🟢 DuckMail > Firefox Relay > (Şifreli E-Posta)
 
@@ -22,19 +20,11 @@ E-posta: gab-carve-imprison@duck.com
 
 🟢 Bitcoin (BTC) Cüzdan Adresi
 
-bc1qlc9hkjp0cruqpnyd5urc53ypz560x6607vegcj5l7s8e6e46m83st489ct
+bc1qpg4hn57q6var8qwwqdrxky8wct8pgazkye5cfk
 
 🟢 Monero (Cash) Adresi
 
-43afBtCmQPgFgK3LZmhGXeFNFWC7Xz4RYgbVYoWAYByyN1ET32H5ReX3dWk3VfxHD4LnB1m8iSR66TRdBopcGTwAJixLNmy
-
-Her türlü destek, katkı veya bağışlar için bu adresi kullanabilirsin.
-
-🟢 WhatsApp Kanalı
-
-Kanal: root@zero
-
-🔗 https://whatsapp.com/channel/0029VbAHv4L8PgsHSQja2P0E
+------
 
 Neden Bu Kanallar?
 
