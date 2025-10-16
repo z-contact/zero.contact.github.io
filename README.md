@@ -12,7 +12,7 @@ Kullanıcı ID: xOWNER.69
 
 🟢 Telegram (Kanal)
 
-🔗 https://t.me/+k1_kiiYrOXphZDk0
+🔗 https://t.me/zerocontactio
 
 🟢 DuckMail > Firefox Relay > (Şifreli E-Posta)
 
