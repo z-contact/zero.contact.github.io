@@ -22,12 +22,3 @@ E-posta: 0x0_owner@proton.me
 🟢 Bitcoin (BTC) Cüzdan Adresi
 
 bc1qpg4hn57q6var8qwwqdrxky8wct8pgazkye5cfk
-
-
-
-
-
-Windows/macOS/Linux üzerinden kurulum: https://tails.net/install/index.en.html
-
-USB ile çalışır, hiçbir iz bırakmaz.
-
