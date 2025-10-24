@@ -10,6 +10,10 @@ Kullanıcı ID: xOWNER.69
 
 🔗 https://t.me/zerocontactio
 
+🟢 WhatsApp >
+
+https://wa.me/447733856572
+
 🟢 DuckMail > Firefox Relay > (Şifreli E-Posta)
 
 E-posta: gab-carve-imprison@duck.com
