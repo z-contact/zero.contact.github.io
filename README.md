@@ -13,6 +13,9 @@ Kullanıcı ID: xOWNER.69
 🟢 DuckMail > Firefox Relay > (Şifreli E-Posta)
 
 E-posta: gab-carve-imprison@duck.com
+
+🟢 ProtonMail >
+
 E-posta: 0x0_owner@proton.me
 
 🟢 Bitcoin (BTC) Cüzdan Adresi
