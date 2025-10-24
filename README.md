@@ -1,9 +1,5 @@
 Güvenli İletişim Noktası
 
-Merhaba, hoş geldin.
-
-Dijital dünyada gizliliğe ve güvenliğe önem veriyorsan, seninle iletişim kurabileceğimiz birkaç özel kanal hazırladım.
-
 🟢 Signal (Uçtan Uca Şifreli Mesajlaşma)
 
 Kullanıcı ID: xOWNER.69
@@ -21,4 +17,4 @@ E-posta: 0x0_owner@proton.me
 
 🟢 Bitcoin (BTC) Cüzdan Adresi
 
-bc1qpg4hn57q6var8qwwqdrxky8wct8pgazkye5cfk
+bc1q7vwur73klm6rcan8nw47ec2h4zgt8mjr5fn2qn40e5t693pnygpqukf5ad
