@@ -1,3 +1,5 @@
+ÖLÜM HARİÇ HERŞEYİN ÇÖZÜM ADRESİ
+
 Güvenli İletişim Noktası
 
 🟢 Signal (Uçtan Uca Şifreli Mesajlaşma)
@@ -14,7 +16,7 @@ Kullanıcı ID: xOWNER.69
 
 https://wa.me/447733856572
 
-🟢 DuckMail > Firefox Relay > (Şifreli E-Posta)
+🟢 DuckMail > 
 
 E-posta: gab-carve-imprison@duck.com
 
@@ -25,3 +27,4 @@ E-posta: 0x0_owner@proton.me
 🟢 Bitcoin (BTC) Cüzdan Adresi
 
 bc1q7vwur73klm6rcan8nw47ec2h4zgt8mjr5fn2qn40e5t693pnygpqukf5ad
+
