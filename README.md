@@ -24,7 +24,7 @@ E-posta: gab-carve-imprison@duck.com
 
 E-posta: 0x0_owner@proton.me
 
-🟢 Bitcoin (BTC) Cüzdan Adresi
+🟢 ProtonWallet > Bitcoin (BTC) Cüzdan Adresi
 
-bc1q7vwur73klm6rcan8nw47ec2h4zgt8mjr5fn2qn40e5t693pnygpqukf5ad
+bc1qwgnze9f2uutw7wckrg9l6y4ux79vp2jus33g46
 
